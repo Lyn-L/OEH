@@ -1,8 +1,8 @@
 Ordinal Embedding Hashing (OEH)
 
-Paper : Towards Optimal Binary Code Learning via Ordinal Embedding
-Author : Hong Liu, Rongrong Ji, Yongjian Wu, Wei Liu 
-Published in AAAI 2016 
+Paper : Towards Optimal Binary Code Learning via Ordinal Embedding. 
+Author : Hong Liu, Rongrong Ji, Yongjian Wu, Wei Liu. 
+Published in AAAI 2016. 
 Contact : lynnliu.xmu@gmail.com 
 
 Unfortunately, the original code cannot be shared, due to our company's IP policy. 
