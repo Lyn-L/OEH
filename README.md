@@ -12,6 +12,6 @@ This package contains cleaned up codes for the AAAI paper, including:  <br />
 test_OEH.m: the demo test codes on LabelMe dataset <br />
 test_OEH_cifar.m: the demo test codes on CIFAR10 (dataset can be download from https://pan.baidu.com/s/1o877VXC) <br />
 trainOEH.m: function to train the OEH model  <br />
-constructure_data.m: function to construct the data set  <br />
+constructure_data.m/constructure_data_cifar.m: function to construct the data set  <br />
 compressOEH.m: function to generate the hash code  <br />
 LabelMe.mat: a random subset of the original LabelMe dataset
